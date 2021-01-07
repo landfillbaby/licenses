@@ -1,0 +1,11 @@
+zlib License for Humans
+
+© <year> <owner>
+
+Don't blame me.
+
+Do what you want, but:
+
+1. Don't say you wrote it. It would be nice if you mention me in your docs :)
+2. Mark your edits.
+3. Keep this in source.
