@@ -1,3 +1,4 @@
 © <year> <owner>
-1 restriction: keep this notice in source
+Do anything
+Keep this notice in source
 No warranty
