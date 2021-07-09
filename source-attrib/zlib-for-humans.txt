@@ -4,7 +4,7 @@ zlib License for Humans
 
 Don't blame me.
 
-Do what you want, but:
+Do whatever, but:
 
 1. Don't say you wrote it. It would be nice if you mention me in your docs :)
 2. Mark your edits.
